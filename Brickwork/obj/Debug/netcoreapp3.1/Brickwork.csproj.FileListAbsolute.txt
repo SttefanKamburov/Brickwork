@@ -1,0 +1,13 @@
+C:\Users\Asus ROG\source\repos\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.exe
+C:\Users\Asus ROG\source\repos\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.deps.json
+C:\Users\Asus ROG\source\repos\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.runtimeconfig.json
+C:\Users\Asus ROG\source\repos\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.runtimeconfig.dev.json
+C:\Users\Asus ROG\source\repos\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.dll
+C:\Users\Asus ROG\source\repos\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.pdb
+C:\Users\Asus ROG\source\repos\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.csprojAssemblyReference.cache
+C:\Users\Asus ROG\source\repos\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.AssemblyInfoInputs.cache
+C:\Users\Asus ROG\source\repos\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.AssemblyInfo.cs
+C:\Users\Asus ROG\source\repos\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.csproj.CoreCompileInputs.cache
+C:\Users\Asus ROG\source\repos\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.dll
+C:\Users\Asus ROG\source\repos\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.pdb
+C:\Users\Asus ROG\source\repos\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.genruntimeconfig.cache
